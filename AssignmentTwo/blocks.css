@@ -1,3 +1,12 @@
+
+/*I started by reseting the CSS. Created a yellow background.
+Centered the title with margin-left. Gave every image a border,
+margin, padding, and background color. The odd images have
+picture frame look with the black border, padding purple, and
+the background of the image white. The even images have a black
+border with the rest of the background red. I removed the border
+from the images in the title.*/
+
 *{
 	margin: 0px;
 	padding: 0px;
@@ -10,7 +19,10 @@
 }
 #title{
 	margin-left: 160px;
+}
+h1{
 	display: inline-block;
+	margin-left: 20px;
 }
 img{
 	background-color: white;
@@ -19,10 +31,6 @@ img{
 	border-style: solid;
 	border-color: black;
 	padding: 10px;
-}
-h1{
-	display: inline-block;
-	margin-left: 20px;
 }
 .even{
 	background-color: red;
