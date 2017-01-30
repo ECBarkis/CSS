@@ -1,0 +1,1 @@
+These are the assignments, I was given at Coding Dojo, to learn how to work with CSS.

@@ -1,0 +1,1 @@
+Working with CSS margin, padding, display, background color, and border style to create the desired layout. I was provided with the images that are displayed on the page. I built out the HTML and the CSS.

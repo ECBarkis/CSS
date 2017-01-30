@@ -1,0 +1,2 @@
+Working with CSS margin, padding, display and vertical align
+to display a header, navigation bar (blue on the left), and main content(red on the right). Inside the main content are sub content(three yellow), and an advertisement (purple). I was given the HTML and some CSS at the start. I had to add CSS to create the desired layout.
