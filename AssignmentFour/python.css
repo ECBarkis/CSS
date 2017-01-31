@@ -1,0 +1,27 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#middle{
+	width: 970px;
+	margin: 0px auto;
+	text-align: center;
+}
+#left, #right{
+	display: inline-block;
+}
+#bottom{
+	width: 970px;
+	margin: 0px auto;
+	padding: 50px 10px 10px 10px;
+	text-align: center;
+	background-color: steelblue;
+	color: darkgrey;
+}
+.footer{
+	display: inline-block;
+	margin-left: 40px;
+}
+h6{
+	margin-top: 20px;
+}
