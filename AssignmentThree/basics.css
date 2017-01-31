@@ -1,3 +1,8 @@
+/*I start by reseting margin and padding. I use wrapper to create my background.
+All my divs have a padding of 10px. My header, navigation, content, and footer
+divs all border-radius of 10px. All my writing is in cyan, and all hilighted text
+is in blue.*/
+
 *{
 	margin: 0px;
 	padding: 0px;
