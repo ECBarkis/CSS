@@ -9,6 +9,35 @@
 	background-color: steelblue;
 	border-bottom: solid;
 }
+#image{
+	display: inline-block;
+}
+#search{
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 160px;
+}
+form{
+	margin-top: 10px;
+	padding: 10px 15px;
+	background-color: black;
+	border-radius: 5px;
+}
+#go{
+	background-color: purple;
+}
+#bar{
+	width: 900px;
+	margin: 0px auto 20px auto;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: teal;
+	color: white;
+}
+#bar h2{
+	display: inline-block;
+	margin-left: 40px;
+}
 #navigation{
 	width: 300px;
 	display: inline-block;
@@ -80,4 +109,11 @@ span{
 #shrink{
 	color: darkgrey;
 	font-size: 13px;
+}
+#white{
+	color: white
+}
+.yellow{
+	color: yellow;
+	text-decoration: underline;
 }
