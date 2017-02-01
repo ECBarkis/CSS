@@ -2,10 +2,45 @@
 	margin: 0px;
 	padding: 0px;
 }
+#top{
+	width: 970px;
+	margin: 0px auto;
+	padding: 10px;
+	background-color: steelblue;
+	border-bottom: solid;
+}
+#navigation{
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+}
+#navigation li{
+	color: yellow;
+	list-style-position: inside;
+	text-align: center;
+	margin-top: 5px;
+}
+u{
+	color: white;
+}
+#content{
+	width: 600px;
+	display: inline-block;
+	color: white;
+	text-align: center;
+}
+#content h3{
+	color: yellow;
+	margin-top: 5px;
+}
+#content h4{
+	margin-top: 5px;
+}
 #middle{
 	width: 970px;
 	margin: 0px auto;
 	margin-bottom: 10px;
+	margin-top: 20px;
 }
 #left{
 	vertical-align: top;
