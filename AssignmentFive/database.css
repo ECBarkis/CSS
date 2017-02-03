@@ -1,0 +1,91 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 970px;
+	margin: 0px auto;
+}
+#header{
+	background-color: lightgrey;
+}
+#header img{
+	margin-left: 10px;
+}
+#header h2{
+	display: inline-block;
+	margin-left: 300px;
+	position: relative;
+	bottom: 20px;
+}
+#navbar{
+	border: solid;
+}
+#navbar p{
+	display: inline-block;
+	color: blue;
+	text-decoration: underline;
+	border-right: solid;
+	border-color: black;
+	padding: 7px 35px;
+}
+#content{
+	background-color: black;
+	padding: 20px;
+}
+#database h3{
+	background-color: grey;
+	padding: 10px;
+}
+#database img{
+	border: solid;
+	border-color: lightgrey;
+	border-width: 10px;
+}
+#database p{
+	background-color: lightgrey;
+	padding: 10px;
+}
+#block{
+	display: inline-block;
+	width: 360px;
+	margin-left: 20px;
+	vertical-align: top;
+	height: 200px;
+}
+#storage, #search, #interaction, #companies{
+	width: 220px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 5px;
+	vertical-align: top;
+}
+#storage img, #search img, #database .pic, #interaction img, #companies img{
+	border-style: none;
+	margin-bottom: -5px;
+}
+#storage button{
+	margin-top: 102px;
+}
+#interaction button{
+	margin-top: 48px;
+}
+#companies button{
+	margin-top: 84px;
+}
+h6{
+	color: purple;
+	margin-top: 5px;
+	text-align: right;
+	margin-right: 40px;
+}
+button{
+	display: block;
+	align-self: right;
+	border-color: black;
+	border-radius: 5px;
+	padding: 5px;
+	background-color: teal;
+	margin-top: 30px;
+	margin-left: 100px;
+}
