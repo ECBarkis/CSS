@@ -18,9 +18,11 @@
 #header span{
 	color: steelblue;
 }
-#content{
+#left{
 	width: 200px;
 	padding: 5px;
+	display: inline-block;
+	margin-top: -20px;
 }
 #left p b span{
 	color: red;
@@ -57,4 +59,76 @@
 }
 #ad h3 span{
 	color: lightblue;
+}
+#main{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: -20px;
+	margin-left: 30px;
+}
+#top{
+	height: 70px;
+	border-bottom: solid;
+	border-bottom-width: 1px;
+}
+#top p{
+	display: inline-block;
+	color: steelblue;
+}
+#contact{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 475px;
+}
+#contact img{
+	position: absolute;
+	margin-top: 10px;
+	margin-left: -55px;
+}
+#day{
+	margin-top: -1px;
+}
+#number{
+	margin-top: -25px;
+	color: skyblue;
+}
+#national{
+	margin-top: -25px;
+}
+#contact h6, #contact h1{
+	text-align: right;
+}
+#middle{
+	display: inline-block;
+	width: 700px;
+}
+li{
+	margin-top: 5px;
+}
+#middle h2, #bottom h2{
+	color: steelblue;
+	margin-top: 5px;
+}
+#middle span, #bottom span{
+	color: skyblue;
+}
+#middle img{
+	position: relative;
+	left: 220px;
+}
+#bottom{
+	width: 700px;
+	align-content: flex-end;
+	border-top: solid;
+	border-left: solid;
+	border-right: solid;
+	border-color: steelblue;
+	padding: 10px;
+	margin-left: 230px;
+}
+#bottom img{
+	position: absolute;
+}
+#bottom .text{
+	margin-left: 170px;
 }
