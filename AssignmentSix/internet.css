@@ -1,0 +1,60 @@
+#wrapper{
+	width: 970px;
+	margin: 0px auto;
+}
+#header img{
+	position: absolute;
+}
+#header h1{
+	padding-top: 15px;
+	padding-left: 80px;
+}
+#header h2{
+	background-color: steelblue;
+	padding: 10px 0px 10px 15px;
+	margin-top: -10px;
+	color: white;
+}
+#header span{
+	color: steelblue;
+}
+#content{
+	width: 200px;
+	padding: 5px;
+}
+#left p b span{
+	color: red;
+}
+#left p span{
+	color: steelblue;
+}
+#video{
+	background-color: steelblue;
+	color: white;
+	border-radius: 5px;
+	padding: 10px 40px;
+	margin-bottom: 5px;
+}
+#resources{
+	background-color: orange;
+	color: white;
+	border-radius: 5px;
+	padding: 10px 31px;
+}
+#ad{
+	text-align: center;
+	background-image: url(images/ad_background.png);
+	padding: 10px;
+}
+#ad h2{
+	color: white;
+}
+#ad h3{
+	background-color: skyblue;
+	border-radius: 5px;
+	padding: 5px 0px;
+	color: white;
+}
+#ad h3 span{
+	color: lightblue;
+}
